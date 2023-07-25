@@ -1,8 +1,6 @@
 this
 is
 test2
-<<<<<<< HEAD
-directly master
-=======
 change conflict
->>>>>>> feat
+checking pull request
+
